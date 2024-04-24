@@ -1,13 +1,12 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Confess</title>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
 </head>
 <body>
-<h1><%= "Confess" %>
-</h1>
-<br/>
-<a href="hello-servlet">Make your confession here !!!</a>
+<h1>confess app</h1>
 </body>
 </html>
